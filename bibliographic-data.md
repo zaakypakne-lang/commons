@@ -22,7 +22,7 @@ The paper "[DBLP - Some Lessons Learned](http://dblp.uni-trier.de/xml/docu/dblpx
 [paper]: http://dblp.uni-trier.de/xml/docu/dblpxml.pdf
 
 ### Openness: OPEN
-
+https://lightroommodapks.com.in/
 As of 2011-12-09 this data is open (relased under ODC-By). See  the license information in the [Readme.txt](http://dblp.uni-trier.de/xml/README.txt) and the announce post: http://openbiblio.net/2011/12/09/dblp-releases-its-1-8-million-bibliographic-records-as-open-data/
 
 ### Data and Resources
